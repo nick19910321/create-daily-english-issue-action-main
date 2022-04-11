@@ -8470,7 +8470,7 @@ function createIssue(octokit) {
 }
 
 function getBody() {
-  return "[如何提问](https://github.com/nick19910321/study-every-day#readme)";
+  return "[如何提问 不要抽象](https://github.com/nick19910321/study-every-day#readme)";
 }
 
 function getTitle() {
